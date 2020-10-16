@@ -30,3 +30,7 @@ The zip file was needed because the function needs boto3 library (for ease, the 
 ## Future
 * It might be nice to package up the zip file generation in a CloudFormation Stack
 * It would be very nice to package up the entire function/SNS topic in a CloudFormation Stack as well
+
+##contribute
+
+this is a amazing project, i really liked it
